@@ -17,8 +17,9 @@
 .myvenv
 env/
 venv/
-myvenv/*
-myvenv/Lib/site-packages
+myvenv/
 ENV/
 env.bak/
 venv.bak/
+
+.idea/
